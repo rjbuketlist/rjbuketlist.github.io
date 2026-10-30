@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.rjbuketlist.twa",
+      "sha256_cert_fingerprints": [
+        "8E:2B:3E:BA:54:95:E5:69:B3:FF:34:F4:10:59:02:25:79:E2:FD:97:FF:6B:70:0B:E2:CD:F7:8E:A4:9D:7E:BD"
+      ]
+    }
+  }
+]
